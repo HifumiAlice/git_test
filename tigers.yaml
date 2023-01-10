@@ -2,6 +2,7 @@ team: Tigers
 manager: Donald
 
 members:
--Linda
--William
--David
+- Linda
+- William
+- David
+- George
